@@ -37,7 +37,8 @@ déployé sur un système de production ou exposé sans mesures de confinement.
 
 ## Documents
 
-- [Présentation du projet](docs/presentation-soc-ai-orange.pdf)
+- [Présentation initiale et état de l'art](docs/presentation-soc-ai-orange.pdf)
+- [Présentation finale du projet](docs/presentation-finale-soc-ai-orange.pdf)
 - [Rapport technique compilé](report/soc-ai-orange-report.pdf)
 - [Source LaTeX du rapport](report/main.tex)
 - [Bibliographie](report/biblioFile.bib)
@@ -47,6 +48,7 @@ déployé sur un système de production ou exposé sans mesures de confinement.
 ```text
 .
 |-- docs/
+|   |-- presentation-finale-soc-ai-orange.pdf
 |   `-- presentation-soc-ai-orange.pdf
 |-- report/
 |   |-- img/
@@ -83,4 +85,3 @@ pdflatex main.tex
 Ce dépôt documente un projet académique collectif. Il contient les livrables
 de présentation et de recherche fournis pour le portfolio, mais pas le code
 complet ni les données du prototype.
-
